@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimeManager</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="calender">Kaldender</string>
+    <string name="to_Do">To-Do</string>
+    <string name="settings">Einstellungen</string>
+    <string name="about">Infos</string>
+    <string name="title_activity_calendar">Kalender</string>
+    <string name="title_activity_to_do_list">ToDoList</string>
+    <string name="selectTask">Drücke auf die Aufgabe für Details</string>
+    <string name="addExercise">Aufgabe hinzufügen</string>
+    <string name="title_activity_create_task">Aufgabe erstellen</string>
+    <string name="task">Aufgabe</string>
+    <string name="deadline">Deadline</string>
+    <string name="priority">Priorität</string>
+    <string name="priority1"> - Hoch</string>
+    <string name="priority2"> - Mittel</string>
+    <string name="priority3"> - Niedrig</string>
+    <string name="additional">Zusätzliche Informationen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="add">Hinzufügen</string>
+    <string name="invalidInput">Ungültige Eingabe</string>
+    <string name="add_exercise">Aufgabe hinzufügen</string>
+    <string name="chooseDate"></string>
+    <string name="back">zurück</string>
+    <string name="title_activity_task_details">Aufgaben Details</string>
+    <string name="loginName">E-Mail address</string>
+    <string name="title_activity_login">Einstellungen</string>
+    <string name="finished">Beendet</string>
+    <string name="notYetFinished">Noch nicht beendet</string>
+    <string name="status">Status</string>
+    <string name="okButtonClick">OK</string>
+    <string name="deleteButtonClicked">AUFGABE LÖSCHEN</string>
+    <string name="title_activity_swipe_list_view_aactivity">SwipeListViewActivity</string>
+    <string name="title_activity_swipe">SwipeActivity</string>
+    <string name="calendarNameLabel">Kalendername</string>
+    <string name="default_calendarName">Kalendername</string>
+    <string name="loading">Laden...</string>
+    <string name="sessions">Einheiten</string>
+    <string name="duration">Dauer (Stunden)</string>
+    <string name="default_workingHours">6</string>
+    <string name="workingHoursPerDayLabel">Arbeitszeit pro Tag</string>
+    <string name="default_weekendAvailable">TRUE</string>
+    <string name="weekendAvailableLabel">Wochenende verfügbar</string>
+    <string name="navLastWeek">-</string>
+    <string name="navNextWeek">+</string>
+    <string name="refresh">Kalender aktualisieren</string>
+    <string name="cd_to_do_list">Dies ist eine To-Do Liste wo du Aufgaben erstellen kannst</string>
+    <string name="cd_calendar">This ist ein Kalender wo du einen schnellen Überblick über deine täglichen Aufgaben hast</string>
+    <string name="cd_settings">Hier kannst du deine Einstellungen ändern</string>
+    <string name="cd_about">Hier findest du Hilfe und Informationen zu dieser App</string>
+    <string name="conflict_calendar">Es gibt einen Konflikt zwischen den Aufgaben und der Deadline! Wechsel zu deiner To-Do Liste und checke deine Aufgaben!</string>
+    <string name="numberOfSessions">Gleiche Einheiten pro Tag</string>
+    <string name="numberOfSessions_default">3</string>
+    <string name="weekendStart">Startzeit am Wochenende</string>
+    <string name="weekendStart_default">10</string>
+    <string name="weekendWorktime">Arbeitszeit am Wochenende</string>
+    <string name="weekendWorktime_default">5</string>
+    <string name="pause">Pause (min)</string>
+    <string name="pause_default">30</string>
+    <string name="weekStart">Startzeit an Wochentagen</string>
+    <string name="default_weekStart">8</string>
+    <string name="updateAssignedExercsie">Diese Aufgabe ist bereits zugeteilt worden. Es ist kein Aktualisierung auf die Deadline möglich</string>
+    <string name="worksession_done">Arbeits Einheiten sind bereits fertig!</string>
+    <string name="status_change">Status Änderung ist nicht möglich!</string>
+    <string name="loading_message">Laden der Aufgaben</string>
+    <string name="title_activity_exercise_statistics">ExerciseStatistics</string>
+    <string name = "aboutAppHeader">Entwickler</string>
+    <string name = "infoAppHeader">Was macht diese App eigentlich genau?</string>
+    <string name ="aboutApp">Diese App ist ein Projekt im Rahmen der Lehrverstaltung Software Engineering Basic des Studiengangs Informations Management
+        					 an der FH JOANNEUM Graz. Verantwortliche Entwickler sind Alexander Hirz, Thomas Köck und Clemens Paumgarten.
+        					  </string>
+    <string name = "infoApp">Die Hauptaufgabe dieser App ist die Vereinfachung des eigenen Timemanagements. Nachdem der Anwender den Kalender importiert hat
+        					 kann er neue Aufgaben in dieser App erstellen. Er kann weiters die Anzahl der Stunden bestimmen, die er bereit ist für diese 
+        					 Aufgabe zu investieren und wieviele Einheiten er dafür verwenden möchte. Danach sucht die App, unter Berücksichtung der Kriterien,
+        					 nach dem passendsten Tag und Zeit.</string>
+    <string name="title_activity_about">About</string>
+    <string name="cd_statistic">Dies Zeigt eine Statistik (Torten Diagramm) mit deinen einzelnen fertigen/unfertigen Aufgaben an.</string>
+    <string name="pref_calender">Kalender Einstellungen</string>
+    <string name="pref_calender_summary">Kalendernamen  einstellen</string>
+    <string name="pref_misc">Zeit - einstellungen</string>
+    <string name="datePast">"Datum in der Vergangenheit!"</string>
+    <string name="noTaskName">"Diese Aufgabe hat noch keinen Namen!"</string>
+    <string name="existingTaskName">"Es existiert bereits eine Aufgabe mit diesem Namen!"</string>
+    <string name="numberWorkSession">" Work Session No. "</string>
+    <string name="wrongDate">"Falsches Datumsformat"</string>
+    <string name="cd_fhlogo">Hier ist das FH JOANNEUM Logo zu sehen</string>
+    
+</resources>

@@ -1,0 +1,29 @@
+Team Members: Alexander Hirz, Thomas Köck und Clemens Paumgarten
+
+Work Load Distribution: 
+
+	Layout: Alexander Hirz
+	
+	App Calendar and Reading the calendar of the device: Clemens Paumgarten
+
+	Checking for best time for WorkSession: Clemens Paumgarten
+	
+	DatabaseHandler: Clemens Paumgarten & Thomas Köck
+
+	Creating Tasks: Thomas Köck & Alexander Hirz
+	
+	TaskDetails: Thomas Köck & Alexander Hirz
+
+	Preferences: Clemens Paumgarten
+
+	ToDoList: Thomas Köck
+
+Source of Application icon: http://findicons.com/icon/237868/preferences_system_time?id=396842
+(License: free to use)
+
+Source of Icons in Main Menu: http://www.graphicsfuel.com, http://psdblast.com/
+(License: Free for personal and commercial use)
+
+Source of the Background image: http://psdblast.com/
+
+Note: German and English are application languages, depends on your devices language

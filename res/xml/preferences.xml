@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout="@style/AppTheme" >
+    
+    <PreferenceCategory
+        android:title="@string/pref_calender">
+    
+    <EditTextPreference 
+        android:key="calendarName"
+        android:title="@string/calendarNameLabel"
+        android:defaultValue="@string/default_calendarName"
+        android:summary="@string/pref_calender_summary"/>
+
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:title="@string/pref_misc">
+    
+    <EditTextPreference 
+        android:key="workingHoursPerDay"
+        android:title="@string/workingHoursPerDayLabel"
+        android:defaultValue="@string/default_workingHours"/>
+    
+     <EditTextPreference 
+        android:key="weekStartTime"
+        android:title="@string/weekStart"
+        android:defaultValue="@string/default_weekStart"/>
+    
+    <EditTextPreference 
+        android:key="numberOfSameSessions"
+        android:title="@string/numberOfSessions"
+        android:defaultValue="@string/numberOfSessions_default"/>
+    
+     <EditTextPreference 
+        android:key="weekendStart"
+        android:title="@string/weekendStart"
+        android:defaultValue="@string/weekendStart_default"/>
+     
+      <EditTextPreference 
+        android:key="weekendWorktime"
+        android:title="@string/weekendWorktime"
+        android:defaultValue="@string/weekendWorktime_default"/>
+     
+    <EditTextPreference 
+        android:key="pause"
+        android:title="@string/pause"
+        android:defaultValue="@string/pause_default"/> 
+	
+    
+    <CheckBoxPreference
+        android:key="weekendAvailable"
+        android:title="@string/weekendAvailableLabel"
+        android:defaultValue="@string/default_weekendAvailable"/> 
+        
+    </PreferenceCategory>
+    
+</PreferenceScreen>

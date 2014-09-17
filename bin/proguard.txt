@@ -1,0 +1,49 @@
+# view AndroidManifest.xml #generated:57
+-keep class at.fhjoanneum.android.About { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class at.fhjoanneum.android.ExerciseStatistics { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class at.fhjoanneum.android.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class at.fhjoanneum.android.Settings { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class at.fhjoanneum.android.TaskDetails { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class at.fhjoanneum.android.ToDoList { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class at.fhjoanneum.android.calendar.CalendarActivity { <init>(...); }
+
+# view res/layout/activity_calendar.xml #generated:9
+-keep class at.fhjoanneum.android.calendar.CalendarView { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class at.fhjoanneum.android.data.CreateTask { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class at.fhjoanneum.android.swipegesture.SwipeListViewAactivity { <init>(...); }
+
+# onClick res/layout/activity_main.xml #generated:26
+-keepclassmembers class * { *** calendarActivity(...); }
+
+# onClick res/layout/activity_main.xml #generated:47
+-keepclassmembers class * { *** onAbout(...); }
+
+# onClick res/layout/activity_create_task.xml #generated:63
+# onClick res/layout/activity_create_task.xml #generated:71
+# onClick res/layout/activity_create_task.xml #generated:79
+# onClick res/layout/activity_task_details.xml #generated:119
+# onClick res/layout/activity_task_details.xml #generated:128
+-keepclassmembers class * { *** onRadioButtonClicked(...); }
+
+# onClick res/layout/activity_main.xml #generated:37
+-keepclassmembers class * { *** onSettings(...); }
+
+# onClick res/layout/activity_main.xml #generated:14
+-keepclassmembers class * { *** toDoList(...); }
+
